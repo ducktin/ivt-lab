@@ -42,3 +42,4 @@ The project represents an alpha version of a spaceship.
 Ez az én kis üzenetem. Bajon valaki megtalálja?
 
 Itt lesz egy merge conflict.
+Ezt a problémát meg kell oldani :)
