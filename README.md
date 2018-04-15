@@ -39,7 +39,7 @@ The project represents an alpha version of a spaceship.
 
 ## Rejtett üzenet
 
-Ez az én kis üzenetem. Bajon valaki megtalálja?
+Ez az én kis üzenetem. Vajon valaki megtalálja?
 
 Itt lesz egy merge conflict.
 Ezt a problémát meg kell oldani :)
