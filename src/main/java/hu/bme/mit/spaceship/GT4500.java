@@ -1,5 +1,7 @@
 package hu.bme.mit.spaceship;
 
+import hu.bme.mit.spaceship.FiringMode.*;
+
 /**
 * A simple spaceship with two proton torpedo stores and four lasers
 */
